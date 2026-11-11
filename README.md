@@ -1,2 +1,27 @@
-# voice-conversion-demo-17
-15 Transformer voice-conversion audio examples: segment5400 + joint1600 and epoch15 differential-loss Transformer.
+# 第六接口 · Transformer 15组试听
+
+[在线试听](https://garrett205.github.io/voice-conversion-demo-17/)
+
+本仓库提供 2026-11-11 整理的 15 条 Transformer 转换结果，可在线播放或下载 WAV。
+
+配置：音素段残差 5400 初始化＋联合 1600，精修使用差分续训第 15 轮 Transformer。每组一条转换结果，48 kHz 单声道。
+
+## 曲目
+
+1. 后来
+2. 小幸运
+3. 大鱼
+4. 晴天
+5. 陪你度过漫长岁月
+6. 体面
+7. 听海
+8. 遇见
+9. 好久不见
+10. 一千年以后
+11. 演员
+12. 刻在我心底的名字
+13. 倒带
+14. 南山南
+15. 我只在乎你
+
+`manifest.json` 记录各条音频的文件名、时长和 SHA-256 校验值。
